@@ -1,3 +1,7 @@
+# Marco Mustacchi
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcoMustacchi&theme=radial&show_icons=true)
+
 ### Hi there 👋
 
 <!--
